@@ -1,0 +1,6 @@
+[submodule "service/nuxt"]
+	path = service/nuxt
+	url = https://github.com/kallera002/nuxt.git
+[submodule "service/backend"]
+	path = service/backend
+	url = https://github.com/kallera002/backend.git
